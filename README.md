@@ -6,5 +6,7 @@ Evaluación sobre uso de git para manejo de repositorios. Se espera que el estud
 Hola soy Santiago Montoya y estoy editando mi trabajo de programación, anteriormente agregue un titulo estilo H1.
 ![Miren al mejor jugador de la historia](https://images.app.goo.gl/XfHJErYAiEAFUrkv8)
 [Lionel Messi](https://es.wikipedia.org/wiki/Lionel_Messi "Biografia de Messi")
-1. Para clonar un repositorio se usa REPO CLONE.
-2. Para realizar un commit usamos los comandos git commit -m 'texto a tu gusto'
+1. Para clonar un repositorio se usa Git clone.
+2. Para adicionar el archico fact.c al stage se utiliza git add fact.c o git add .
+3. Para realizar un commit usamos los comandos git commit -m 'texto a tu gusto'
+4. Para sincronizar con el repositorio remoto se utiliza Git remote y luego Git push.
