@@ -5,7 +5,9 @@ Evaluación sobre uso de git para manejo de repositorios. Se espera que el estud
 # Evalución 1
 Hola soy Santiago Montoya y estoy editando mi trabajo de programación, anteriormente agregue un titulo estilo H1.
 
-![Miren al mejor jugador de la historia](https://images.app.goo.gl/XfHJErYAiEAFUrkv8)
+Abajo podras ver al mejor jugador de la historia, si quieres puedes dar click en su biografia para conocer mas de el.
+
+![Alt text](Messi.jpg)
 
 [Biografia de Messi](https://es.wikipedia.org/wiki/Lionel_Messi)
 
