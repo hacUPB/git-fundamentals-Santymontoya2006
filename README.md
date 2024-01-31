@@ -7,3 +7,4 @@ Hola soy Santiago Montoya y estoy editando mi trabajo de programación, anterior
 ![Miren al mejor jugador de la historia](https://images.app.goo.gl/XfHJErYAiEAFUrkv8)
 [Lionel Messi](https://es.wikipedia.org/wiki/Lionel_Messi "Biografia de Messi")
 1. Para clonar un repositorio se usa REPO CLONE.
+2. Para realizar un commit usamos los comandos git commit -m 'texto a tu gusto'
