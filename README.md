@@ -11,6 +11,7 @@ Abajo podras ver al mejor jugador de la historia, si quieres puedes dar click en
 
 [Biografia de Messi](https://es.wikipedia.org/wiki/Lionel_Messi)
 
+# Lista Ordenada de Git 
 1. Para clonar un repositorio se usa Git clone.
 2. Para adicionar el archico fact.c al stage se utiliza git add fact.c o git add .
 3. Para realizar un commit usamos los comandos git commit -m 'texto a tu gusto'
