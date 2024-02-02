@@ -16,3 +16,8 @@ Abajo podras ver al mejor jugador de la historia, si quieres puedes dar click en
 2. Para adicionar el archico fact.c al stage se utiliza git add fact.c o git add .
 3. Para realizar un commit usamos los comandos git commit -m 'texto a tu gusto'
 4. Para sincronizar con el repositorio remoto se utiliza Git remote y luego Git push.
+
+# Mejores jugadores de la historia
+1. Lionel Messi
+2. Cristiano Ronaldo 
+3. Neymar Jr
