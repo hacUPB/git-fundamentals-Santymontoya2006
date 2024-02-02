@@ -11,6 +11,10 @@ Abajo podras ver al mejor jugador de la historia, si quieres puedes dar click en
 
 [Biografia de Messi](https://es.wikipedia.org/wiki/Lionel_Messi)
 
+[Biografia de Cristiano](https://es.wikipedia.org/wiki/Cristiano_Ronaldo)
+
+[Biografia de Neymar](https://es.wikipedia.org/wiki/Neymar)
+
 # Lista Ordenada de Git 
 1. Para clonar un repositorio se usa Git clone.
 2. Para adicionar el archico fact.c al stage se utiliza git add fact.c o git add .
@@ -21,3 +25,4 @@ Abajo podras ver al mejor jugador de la historia, si quieres puedes dar click en
 1. Lionel Messi
 2. Cristiano Ronaldo 
 3. Neymar Jr
+
